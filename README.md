@@ -1,4 +1,3 @@
 # Learngit
 learnGit
-我是忠鹏大爷
-忠鹏是荣荣大爷
+this is write from wangzhongpeng 10.13.28.96
